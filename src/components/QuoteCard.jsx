@@ -16,7 +16,7 @@ const QuoteCard = ({quote,handleChangeQuote}) => {
               </div>
             
 
-            <button className="quoteCard__btn" onClick={handleChangeQuote}>phrases</button>
+            <button className="quoteCard__btn" onClick={handleChangeQuote}>probando</button>
         </article>
 
         <footer className="quoteCard__footer">
