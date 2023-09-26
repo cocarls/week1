@@ -1,0 +1,18 @@
+ .app{
+    
+    background-size: cover;
+    background-position: center;
+ }
+
+ .app.bg1{
+    background-image: url(/galaxia.jpg);
+ }
+ .app.bg2{
+    background-image: url(/galaxia2.jpg);
+ }
+ .app.bg3{
+    background-image: url(/galaxia3.jpg);
+ }
+ .quoteCard__footer{
+   font-family:cursive ;
+ }
