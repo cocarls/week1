@@ -8,10 +8,11 @@
     background-image: url(/galaxia.jpg);
  }
  .app.bg2{
-    background-image: url(/galaxia2.jpg);
+   background-image: url(/nuevaimagen1.jpeg);
+    
  }
  .app.bg3{
-    background-image: url(/galaxia3.jpg);
+   background-image: url(/nuevaimagen3.jpeg);
  }
  .quoteCard__footer{
    font-family:cursive ;

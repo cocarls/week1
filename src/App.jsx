@@ -5,7 +5,8 @@ import quotes from "./db/quotes.json"
 import { getRandomElemnt } from './utils/random'
 import QuoteCard from './components/QuoteCard';
 
-const bacgrounds = ["bg1", "bg2", "bg2"]
+const bacgrounds = ["bg1","bg2","bg3"]
+// "bg2",
 
 function App() {
 
